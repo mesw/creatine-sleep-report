@@ -12,13 +12,14 @@
 
 - [Abstract / Kurzfassung](#abstract--kurzfassung)
 - [1. Introduction / Einleitung](#1-introduction--einleitung)
-- [2. Methodology / Methodik](#2-methodology--methodik)
-- [3. Evidence in Well-Rested Humans / Evidenz bei ausgeruhten Menschen](#3-evidence-in-well-rested-humans--evidenz-bei-ausgeruhten-menschen)
-- [4. Evidence Under Sleep Deprivation / Evidenz unter Schlafentzug](#4-evidence-under-sleep-deprivation--evidenz-unter-schlafentzug)
-- [5. Population-Level Evidence / Evidenz auf Bevölkerungsebene](#5-population-level-evidence--evidenz-auf-bevölkerungsebene)
-- [6. Benefits / Nutzen](#6-benefits--nutzen)
-- [7. Risks and Limitations / Risiken und Einschränkungen](#7-risks-and-limitations--risiken-und-einschränkungen)
-- [8. Conclusions / Schlussfolgerungen](#8-conclusions--schlussfolgerungen)
+- [2. Mechanism / Wirkmechanismus](#mechanism)
+- [3. Methodology / Methodik](#3-methodology--methodik)
+- [4. Evidence in Well-Rested Humans / Evidenz bei ausgeruhten Menschen](#4-evidence-in-well-rested-humans--evidenz-bei-ausgeruhten-menschen)
+- [5. Evidence Under Sleep Deprivation / Evidenz unter Schlafentzug](#5-evidence-under-sleep-deprivation--evidenz-unter-schlafentzug)
+- [6. Population-Level Evidence / Evidenz auf Bevölkerungsebene](#6-population-level-evidence--evidenz-auf-bevlkerungsebene)
+- [7. Benefits / Nutzen](#7-benefits--nutzen)
+- [8. Risks and Limitations / Risiken und Einschränkungen](#8-risks-and-limitations--risiken-und-einschrnkungen)
+- [9. Conclusions / Schlussfolgerungen](#9-conclusions--schlussfolgerungen)
 - [References / Quellenverzeichnis](#references--quellenverzeichnis)
 
 ---
@@ -40,7 +41,17 @@
 
 ---
 
-## 2. Methodology / Methodik
+<a name="mechanism"></a>
+## 2. Mechanism / Wirkmechanismus
+
+| English | Deutsch |
+|---|---|
+| The creatine kinase reaction reversibly converts creatine + ATP ↔ phosphocreatine + ADP, buffering rapid fluctuations in cellular energy demand. The brain is among the most energy-intensive organs in the body, and this buffer is especially critical during sleep, when restorative metabolic processes — including the clearance of adenosine, a sleep-pressure molecule — occur. | Die Kreatinkinase-Reaktion wandelt reversibel Kreatin + ATP ↔ Phosphokreatin + ADP um und puffert so schnelle Schwankungen im zellulären Energiebedarf ab. Das Gehirn gehört zu den energieintensivsten Organen des Körpers; dieser Puffer ist besonders während des Schlafs von Bedeutung, wenn regenerative Stoffwechselprozesse stattfinden — darunter der Abbau von Adenosin, einem schlafdruckfördernden Molekül. |
+| Dworak et al. (2017) demonstrated in an animal model that brain phosphocreatine levels are depleted during wakefulness and restored during sleep, suggesting that creatine replenishment is one function of sleep itself. Creatine supplementation may therefore pre-load cerebral energy stores, reducing sleep pressure or attenuating the performance consequences of sleep loss. | Dworak et al. (2017) zeigten in einem Tiermodell, dass der Phosphokreatinspiegel im Gehirn während des Wachzustands abgebaut und während des Schlafs wieder aufgefüllt wird — was darauf hindeutet, dass die Wiederauffüllung von Kreatin eine der Funktionen des Schlafs selbst ist. Eine Kreatin-Supplementierung könnte daher die zerebralen Energiespeicher vorladen, den Schlafdruck verringern oder die leistungsbezogenen Folgen von Schlafmangel abschwächen. |
+
+---
+
+## 3. Methodology / Methodik
 
 | English | Deutsch |
 |---|---|
@@ -48,9 +59,9 @@
 
 ---
 
-## 3. Evidence in Well-Rested Humans / Evidenz bei ausgeruhten Menschen
+## 4. Evidence in Well-Rested Humans / Evidenz bei ausgeruhten Menschen
 
-### 3.1 Physically Active Men (Ben Maaoui et al., 2025) / Körperlich aktive Männer (Ben Maaoui et al., 2025)
+### 4.1 Physically Active Men (Ben Maaoui et al., 2025) / Körperlich aktive Männer (Ben Maaoui et al., 2025)
 
 | English | Deutsch |
 |---|---|
@@ -58,7 +69,7 @@
 | **Findings:** Subjective sleep quality improved significantly with creatine (large effect, d = 0.81, p = 0.009). Participants went to bed earlier (r = 0.60, p = 0.026). However, objective parameters — sleep latency, sleep efficiency, and total sleep time — showed no significant change. | **Ergebnisse:** Die subjektive Schlafqualität verbesserte sich unter Kreatin signifikant (große Effektstärke, d = 0,81, p = 0,009). Die Teilnehmer gingen früher zu Bett (r = 0,60, p = 0,026). Die objektiven Parameter — Einschlaflatenz, Schlafeffizienz und Gesamtschlafzeit — zeigten hingegen keine signifikanten Veränderungen. |
 | **Interpretation:** Creatine appears to improve how people *feel* about their sleep and shifts bedtime earlier, but it does not measurably alter the underlying sleep architecture in well-rested individuals. | **Interpretation:** Kreatin scheint das *subjektive Empfinden* der Schlafqualität zu verbessern und die Zubettgehzeit vorzuverlegen, verändert aber die zugrunde liegende Schlafarchitektur bei ausgeruhten Personen nicht messbar. |
 
-### 3.2 Naturally Menstruating Females (Aguiar Bonfim Cruz et al., 2024) / Natürlich menstruierende Frauen (Aguiar Bonfim Cruz et al., 2024)
+### 4.2 Naturally Menstruating Females (Aguiar Bonfim Cruz et al., 2024) / Natürlich menstruierende Frauen (Aguiar Bonfim Cruz et al., 2024)
 
 | English | Deutsch |
 |---|---|
@@ -68,7 +79,7 @@
 
 ---
 
-## 4. Evidence Under Sleep Deprivation / Evidenz unter Schlafentzug
+## 5. Evidence Under Sleep Deprivation / Evidenz unter Schlafentzug
 
 | English | Deutsch |
 |---|---|
@@ -80,7 +91,7 @@
 
 ---
 
-## 5. Population-Level Evidence / Evidenz auf Bevölkerungsebene
+## 6. Population-Level Evidence / Evidenz auf Bevölkerungsebene
 
 | English | Deutsch |
 |---|---|
@@ -89,7 +100,7 @@
 
 ---
 
-## 6. Benefits / Nutzen
+## 7. Benefits / Nutzen
 
 | English | Deutsch |
 |---|---|
@@ -101,7 +112,7 @@
 
 ---
 
-## 7. Risks and Limitations / Risiken und Einschränkungen
+## 8. Risks and Limitations / Risiken und Einschränkungen
 
 | English | Deutsch |
 |---|---|
@@ -113,7 +124,7 @@
 
 ---
 
-## 8. Conclusions / Schlussfolgerungen
+## 9. Conclusions / Schlussfolgerungen
 
 | English | Deutsch |
 |---|---|

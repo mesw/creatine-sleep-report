@@ -6,12 +6,6 @@ All changes are confined to `README.md`. Branch: `claude/revise-peer-review-feed
 
 ## Structural Additions
 
-- [ ] **Item 15 — New Section 2 "Mechanism / Wirkmechanismus"**
-  Insert between Introduction and Methodology. Cover phosphocreatine/ATP buffering hypothesis, brain energetics, cite Dworak 2017 as mechanistic context. Bilingual table format, ~2 rows.
-
-- [ ] **Renumber all sections** after inserting new Section 2:
-  Methodology → 3, Well-Rested Humans → 4, Sleep Deprivation → 5, Population-Level → 6, Benefits → 7, Risks → 8, Conclusions → 9.
-
 - [ ] **Item 3 — Expand Methodology (new Section 3)**
   Replace single vague paragraph with: databases searched (PubMed, Google Scholar, Scopus), date range (through April 2026), keyword strings, inclusion criteria (human, peer-reviewed, English or German), exclusion criteria (non-peer-reviewed, animal-only except mechanistic context), records-screened/included count.
 
